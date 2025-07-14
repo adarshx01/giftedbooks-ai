@@ -5,14 +5,7 @@ import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDKVQ-3S48-PNhPQVWdEoOaCBI4qbPdddA",
-  authDomain: "inkrit-3ebcf.firebaseapp.com",
-  databaseURL: "https://inkrit-3ebcf-default-rtdb.firebaseio.com",
-  projectId: "inkrit-3ebcf",
-  storageBucket: "inkrit-3ebcf.appspot.com",
-  messagingSenderId: "440105175644",
-  appId: "1:440105175644:web:d2c8a63530207a38e67499",
-  measurementId: "G-5S36EFQKVM"
+//config here web based
 };
 
 // Initialize Firebase
